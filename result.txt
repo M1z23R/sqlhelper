@@ -1,0 +1,17 @@
+Connected to database successfully
+Processing SQL files in directory: /home/dimitrije/projects/kinetic/kxcatering-on-pulse-backend/Kinetic.KxCatering/Modules/GERMSync/SP/StoredProcedureWrappers
+Executing: /home/dimitrije/projects/kinetic/kxcatering-on-pulse-backend/Kinetic.KxCatering/Modules/GERMSync/SP/StoredProcedureWrappers/0. MenuItemsTableType.sql
+Executing: /home/dimitrije/projects/kinetic/kxcatering-on-pulse-backend/Kinetic.KxCatering/Modules/GERMSync/SP/StoredProcedureWrappers/1. EventModuleDayCateringFacility_Delete.sql
+Executing: /home/dimitrije/projects/kinetic/kxcatering-on-pulse-backend/Kinetic.KxCatering/Modules/GERMSync/SP/StoredProcedureWrappers/1. EventModuleDayCateringFacility_Insert.sql
+Executing: /home/dimitrije/projects/kinetic/kxcatering-on-pulse-backend/Kinetic.KxCatering/Modules/GERMSync/SP/StoredProcedureWrappers/1. EventModuleDayCateringFacility_Update.sql
+Executing: /home/dimitrije/projects/kinetic/kxcatering-on-pulse-backend/Kinetic.KxCatering/Modules/GERMSync/SP/StoredProcedureWrappers/2. EventModuleDayCateringArea_Insert.sql
+Executing: /home/dimitrije/projects/kinetic/kxcatering-on-pulse-backend/Kinetic.KxCatering/Modules/GERMSync/SP/StoredProcedureWrappers/2. EventModuleDayCateringArea_Update.sql
+Executing: /home/dimitrije/projects/kinetic/kxcatering-on-pulse-backend/Kinetic.KxCatering/Modules/GERMSync/SP/StoredProcedureWrappers/3. CateringAuditLog_Insert.sql
+Executing: /home/dimitrije/projects/kinetic/kxcatering-on-pulse-backend/Kinetic.KxCatering/Modules/GERMSync/SP/StoredProcedureWrappers/4. DietRequirement_Delete.sql
+Executing: /home/dimitrije/projects/kinetic/kxcatering-on-pulse-backend/Kinetic.KxCatering/Modules/GERMSync/SP/StoredProcedureWrappers/4. DietRequirement_Insert.sql
+Executing: /home/dimitrije/projects/kinetic/kxcatering-on-pulse-backend/Kinetic.KxCatering/Modules/GERMSync/SP/StoredProcedureWrappers/4. DietRequirement_Update.sql
+Executing: /home/dimitrije/projects/kinetic/kxcatering-on-pulse-backend/Kinetic.KxCatering/Modules/GERMSync/SP/StoredProcedureWrappers/5. People_Insert.sql
+Executing: /home/dimitrije/projects/kinetic/kxcatering-on-pulse-backend/Kinetic.KxCatering/Modules/GERMSync/SP/StoredProcedureWrappers/5. People_Update.sql
+Executing: /home/dimitrije/projects/kinetic/kxcatering-on-pulse-backend/Kinetic.KxCatering/Modules/GERMSync/SP/StoredProcedureWrappers/6. Users_Insert.sql
+Executing: /home/dimitrije/projects/kinetic/kxcatering-on-pulse-backend/Kinetic.KxCatering/Modules/GERMSync/SP/StoredProcedureWrappers/6. Users_Update.sql
+All SQL files processed successfully
