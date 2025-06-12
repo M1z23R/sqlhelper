@@ -51,7 +51,7 @@ func main() {
 			if ext == ".sql" {
 				fmt.Printf("Executing: %s\n", path)
 				if err := executeSQLFile(db, path); err != nil {
-					log.Printf("❌Error executing %s: %v", path, err)
+					fmt.Printf("❌Error executing %s: %v", path, err)
 				} else {
 					fmt.Printf("✅Successfully executed: %s\n", path)
 				}
